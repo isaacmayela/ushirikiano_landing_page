@@ -2,7 +2,7 @@ import HeroSection from "../heroSection/HeroSection"
 
 export default function Home() {
   return (
-    <div>
+    <div className="">
       <HeroSection/>
     </div>
   )
